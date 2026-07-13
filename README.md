@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on **Full Stack, AI & Flutter Projects**<br><br>🤝 I'm looking to collaborate on **Open Source, SaaS & AI Applications**<br><br>🌱 I'm currently learning **Python, DSA, React, Next.js, Machine Learning & Cloud Computing**<br><br>💬 Ask me about **Python, JavaScript, React, Flutter, Node.js, Git, GitHub & Web Development**<br><br>🎯 Goal: **Become a Full Stack & AI Engineer and build impactful products**<br><br>⚡ Fun fact: **I love turning ideas into real-world applications and learning something new every day!**
+🔭 I'm currently working on **Full Stack, AI & Flutter Projects**<br><br>🤝 I'm looking to collaborate on **Open Source, SaaS & AI Applications**<br><br>🌱 I'm currently learning **Python, DSA, React, Next.js, Machine Learning & Cloud Computing**<br><br>💬 Ask me about **Python, JavaScript, React,Node.js, Git, GitHub & Web Development**<br><br>🎯 Goal: **Become a Full Stack & AI Engineer and build impactful products**<br><br>⚡ Fun fact: **I love turning ideas into real-world applications and learning something new every day!**
 
 
 ## 🌐 Socials:
